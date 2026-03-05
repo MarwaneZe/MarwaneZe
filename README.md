@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Marwane Zerbaoui 👋
 
 I am a 2nd-year **Data Analysis & AI** student at **ENSA Safi**, passionate about the intersection of Artificial Intelligence, Robotics, and Mathematical modeling. I enjoy building systems that connect smart software with physical hardware.
 
@@ -31,7 +31,7 @@ I am a 2nd-year **Data Analysis & AI** student at **ENSA Safi**, passionate abou
 ---
 
 ### 📫 Reach Me
-* **LinkedIn:** [Your Link Here]
+* **LinkedIn:** https://www.linkedin.com/in/marwane-zerbaoui/
 * **Location:** Safi, Morocco 🇲🇦
 
 ---
