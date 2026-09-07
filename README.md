@@ -1,37 +1,48 @@
-# Hi there, I'm Marwane Zerbaoui 👋
+# Hi, I'm Marwane Zerbaoui 👋
 
-I am a 2nd-year **Data Analysis & AI** student at **ENSA Safi**, passionate about the intersection of Artificial Intelligence, Robotics, and Mathematical modeling. I enjoy building systems that connect smart software with physical hardware.
+Final-Year Data Engineering & AI Engineering Student @ ENSA Safi 🇲🇦
 
-### 🛠️ My Technical Toolbox
+I’m interested in building data-intensive systems, from data ingestion
+and processing to analytics and machine learning.
 
-* **AI & Data:** Python (NumPy, Pandas, Scikit-Learn), Computer Vision (OpenCV), CNNs, Reinforcement Learning.
-* **Web Development:** MERN Stack (MongoDB, Express.js, React, Node.js).
-* **Robotics & Embedded:** Microcontrollers (Arduino Uno, ESP32, STM32), Communication Protocols (I2C, SPI, UART), Embedded C/C++.
-* **Simulation & Cloud:** CARLA Simulator, Cloud Computing integration.
+## About Me
 
----
+- 🎓 Final-year engineering student specializing in Data Engineering & AI
+- 🧩 Interested in Data Engineering, Big Data, Machine Learning & Data Platforms
+- ⚙️ Enjoy working with streaming, distributed processing and data pipelines
+- 📊 Interested in applying data engineering and AI to real-world problems
+- ⚽ Interested in Football Analytics & Sports Data
 
-### 🚀 What I'm Currently Working On
+## Tech Stack
 
-#### 1. Smart Employee Activity Monitoring System 🏢
-* **Goal:** A smart system to analyze and rate employee work activity.
-* **Tech:** Custom **CNN models** for Human Activity Recognition (HAR) integrated with **Cloud Computing** for real-time processing and data storage.
+**Languages**
+Python · SQL · Java · C
 
-#### 2. Autonomous Driving Simulation 🏎️
-* **Goal:** Developing a self-driving agent in a high-fidelity environment.
-* **Tech:** **CARLA Simulator** + **Python**. Utilizing **Reinforcement Learning** to train the agent for complex urban driving scenarios.
+**Data Engineering**
+Apache Spark · Kafka · Airflow · Pandas · NumPy
 
----
+**Databases & Storage**
+PostgreSQL · MySQL · MongoDB · MinIO · S3
 
-### 🧠 Interests & Hobbies
-* **Mathematics:** Exploring the theory behind signal treatment and optimization.
-* **Robotics:** Designing low-latency embedded systems and smart hardware.
-* **Football:** A big fan of the game! ⚽️
+**Cloud & Data Platforms**
+AWS · Databricks · Snowflake · BigQuery
 
----
+**AI / Machine Learning**
+Scikit-learn · TensorFlow · Keras · PyTorch
 
-### 📫 Reach Me
-* **LinkedIn:** https://www.linkedin.com/in/marwane-zerbaoui/
-* **Location:** Safi, Morocco 🇲🇦
+**Development & Infrastructure**
+Docker · Linux · Git · FastAPI · Django
 
----
+## Education
+
+**École Nationale des Sciences Appliquées de Safi (ENSA Safi)**
+Engineering Degree — Data Engineering & AI
+
+## Interests
+
+Data Engineering · Distributed Systems · Machine Learning ·
+Data Platforms · Sports Analytics · Football
+
+## Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/marwane-zerbaoui/)
